@@ -1,9 +1,4 @@
-### CALCULADORA SIMPLES UTILIZANDO PYTHON	 :snake:
-
-
+CALCULADORA SIMPLES UTILIZANDO PYTHON
 
 * Calculadora simples criada para apresentação de primeiro repositório no GitHub para o Bootcamp Santander Fullstack Developer.
-
-
-
-* Criação de conteúdo baseado em aulas do :  https://www.usandopy.com/  
+* Criação do conteúdo baseado em aulas disponíveis no site: (https://www.usandopy.com)
