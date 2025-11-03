@@ -1,4 +1,0 @@
-CALCULADORA SIMPLES UTILIZANDO PYTHON
-
-* Calculadora simples criada para apresentação de primeiro repositório no GitHub para o Bootcamp Santander Fullstack Developer.
-* Criação do conteúdo baseado em aulas disponíveis no site Usando Py.
